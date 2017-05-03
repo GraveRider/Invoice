@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="saskaita:war">
+    <output-path>$PROJECT_DIR$/../practical-work-template-master/target</output-path>
+    <root id="archive" name="saskaita-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="saskaita:war exploded" />
+    </root>
+  </artifact>
+</component>
